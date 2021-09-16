@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**Jupiter-19/Jupiter-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About me
+- I am Zhang Shaojie, graduated from Zhejiang University, majoring in computational mathematics.
+- I work in Hangzhou, China.
+- Blog: [link here](www.jupiter19.top)
+- Languages：Python, LaTeX, Markdown
 
-Here are some ideas to get you started:
+# What I read next
+- 《计算机网络》
+- 《星震》
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# What I'm interested in
+- Z3/CVC5
+- sci-fi
+- stocks
