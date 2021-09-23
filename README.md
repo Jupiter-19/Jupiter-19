@@ -7,5 +7,5 @@
 
 # What I Do Now:
 - Learning: z3/cvc5
-- Reading: 计算机网络,星震
+- Reading: <计算机网络>, <星震>
 - Hobbies: sci-fi, stocks
