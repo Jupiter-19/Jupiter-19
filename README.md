@@ -2,7 +2,7 @@
 # About me
 - I am Zhang Shaojie, graduated from Zhejiang University, majoring in computational mathematics.
 - I work in Hangzhou, China.
-- Blog: [link here](www.jupiter19.top)
+- Blog: [link here](https://www.jupiter19.top)
 - Languages：Python, LaTeX, Markdown
 
 # What I read next
